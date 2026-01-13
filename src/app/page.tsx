@@ -10,7 +10,7 @@ export default function HomePage() {
       <header className="border-b bg-white/80 backdrop-blur-sm">
         <div className="container mx-auto px-4 py-4">
           <h1 className="text-2xl font-bold text-blue-900">
-            Mesa de Partes Virtual
+            Herramientas de Trazabilidad
           </h1>
         </div>
       </header>
